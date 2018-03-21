@@ -6,7 +6,7 @@ datehelp class
 添加到项目的dependency
 ```Java
 	dependencies {
-	        compile 'com.github.ArdWang:dateutil:1.0.0'
+	        compile 'com.github.ArdWang:dateutil:1.0.1'
 	}
 ```
 
@@ -28,7 +28,7 @@ datehelp class
 	<dependency>
 	    <groupId>com.github.ArdWang</groupId>
 	    <artifactId>dateutil</artifactId>
-	    <version>1.0.0</version>
+	    <version>1.0.1</version>
 	</dependency>
 	
 ```
